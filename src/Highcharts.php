@@ -1,7 +1,6 @@
 <?php namespace Oblagio\Highcharts;
 
 class Highcharts
-
 {
 	public function hello()
 	{
